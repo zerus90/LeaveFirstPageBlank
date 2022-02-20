@@ -1,0 +1,23 @@
+Video Repository:
+------------------------------------------------------------
+
+Certonia94.01
+
+------------------------------------------------------------
+
+{
+	Video Name: Creating Saving Opening Diagrams
+	Date Added: 19 FEB 2022
+}
+{
+	Video Name: naming policy
+	Date Added: 19 FEB 2022
+}
+{
+	Video Name: using github for official and personal use
+	Date Added: 19 FEB 2022
+}
+{
+	Video Name: balancing office and personal work using the right mindset
+	Date Added: 20 FEB 2022
+}

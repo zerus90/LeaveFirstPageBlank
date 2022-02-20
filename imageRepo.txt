@@ -6,6 +6,10 @@ Funinax93.01
 ------------------------------------------------------------
 
 {
-	Image Name: 
-	Date Added: 
+	Image Name: Using github
+	Date Added: 20 FEB 2022
+}
+{
+	Image Name: Balancing office and personal growth
+	Date Added: 20 FEB 2022
 }
